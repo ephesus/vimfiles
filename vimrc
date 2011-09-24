@@ -422,3 +422,4 @@ let g:user_zen_settings = {
  \}
 
 imap hh =>
+set clipboard=unnamed
